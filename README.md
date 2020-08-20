@@ -26,4 +26,5 @@ Using cv2 library to detect faces from the available dataset
 ![](download.png)
 
 **OUTPUT**
+
 ![](FaceDetection.png)
